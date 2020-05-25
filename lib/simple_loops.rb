@@ -14,3 +14,7 @@ end
 def output_array(array)
   array.each { |word| puts word }  
 end
+
+def return_string_array(array)
+  
+end
