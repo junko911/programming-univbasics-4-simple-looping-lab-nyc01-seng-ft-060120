@@ -12,5 +12,5 @@ def loop_message_n_times(string, num)
 end
 
 def output_array(array)
-  array.each { |word| print word }  
+  array.each { |word| puts word }  
 end
